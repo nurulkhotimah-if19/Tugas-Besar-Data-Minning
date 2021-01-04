@@ -1,0 +1,11 @@
+Dataset dari bunga Iris
+Bunga iris memiliki kelas dataset, diantaranya:
+1. Iris -setosa
+2. Iris -versicolour
+3. Iris -Virginica. 
+Adapun atribut dari dataset bunga iris, ialah:
+1. Panjang putik(petal) dalam cm
+2. Lebar putik(petal) dalam cm
+3. Panjang kelopak(sepal) dalam cm
+4. Lebar kelopak(sepal) dalam cm. 
+
