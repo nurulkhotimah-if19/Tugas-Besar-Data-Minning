@@ -1,3 +1,8 @@
+Dari data yang telah tersedia di link: https://archive.ics.uci.edu/ml/datasets.php ,
+kami mengambil dataset dari Iris. Dimana, dataset yang tersedia ada 150 data mentah. 
+Kami mengolah data tersebut menggunakan konsep dan aturan data minning, salah satunya menggunakan aturan decision tree(pohon keputusan).
+Sehingga didapat 10 dataset yang kemunculannya sering terjadi.
+
 Dataset dari bunga Iris
 Bunga iris memiliki kelas dataset, diantaranya:
 1. Iris -setosa
@@ -9,3 +14,7 @@ Adapun atribut dari dataset bunga iris, ialah:
 3. Panjang kelopak(sepal) dalam cm
 4. Lebar kelopak(sepal) dalam cm. 
 
+Disini kami juga akan menjelaskan sedikit mengenai Github. 
+Github adalah layanan cloud untuk menyimpan & mengelola project/ repo git. 
+Github merupakan instagramnya para programmer. Mengapa demikian? 
+Karena github tersedia secara online, untuk mengupload project, repo, serta source code yang bisa dilihat, dilike bahkan dimodifikasi oleh orang lain.
