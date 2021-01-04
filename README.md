@@ -1,2 +1,2 @@
 # Tugas-Besar-Data-Minning
-IF3A Batamindo
+Dataset Bunga Iris dan Github Project
